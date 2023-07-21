@@ -5,9 +5,6 @@
 
 ![Felipe A.W. GitHub stats](https://github-readme-stats.vercel.app/api?username=callofnoob304&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callofnoob304&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Tecnologias que utilizo uso no meu dia
 
 <div style="display: inline_block"><br/>
