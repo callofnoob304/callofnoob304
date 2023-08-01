@@ -6,7 +6,6 @@
   
   ### Minhas estatísticas
   
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/callofnoob304/github-readme-stats)
   ![Felipe A.W. GitHub stats](https://github-readme-stats.vercel.app/api?username=callofnoob304&show_icons=true&theme=radical)
   
   ### Tecnologias que utilizo no meu dia
