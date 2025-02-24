@@ -7,6 +7,7 @@
   ### Minhas estatísticas
   
   ![Felipe A.W. GitHub stats](https://github-readme-stats.vercel.app/api?username=callofnoob304&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishi011&layout=compact)
   
   ### Tecnologias que utilizo
   
